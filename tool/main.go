@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 
-var RootPath = "E:\\gm-workspace\\go2proto-master\\"
+var RootPath = "E:\\ainslee\\git\\go2proto\\"
 var ServiceRoot = "t1\\"
 var CloudName = "stocking"
 var ServiceName = "test1"
